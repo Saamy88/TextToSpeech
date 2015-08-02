@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Text To Speech</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="hint">Sentence to say </string>
+    <string name="speak">Speak</string>
+    <string name="stop">Stop</string>
+    <string name="language" >Language</string>
+    <string name="prompt" >Choose language: </string>
+
+    <string-array name="options">
+
+        <item> English </item>
+        <item> English UK </item>
+        <item> French </item>
+        <item> German </item>
+
+    </string-array>
+
+</resources>
